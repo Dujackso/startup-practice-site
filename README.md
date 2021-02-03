@@ -1,5 +1,3 @@
-# Portfolio-site
+# Landing Page Practice
 
-These are the files that make up my current portfolio. 
-
-This link will take you to the live site: dushanejackson.github.io
+This is a practice landing page made with HTML and CSS. 
